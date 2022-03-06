@@ -1,7 +1,7 @@
 # ETL (Extract _ Transform _ Load) big data sets.
 
 ```diff
-- Project background:
+- Project scenario:
 ```
 
     We are the Two_Pandas, the Data Scientists working in the Retail Product category, helping an agency to look for the 
