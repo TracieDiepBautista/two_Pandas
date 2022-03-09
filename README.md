@@ -33,6 +33,16 @@
     - SQL Alchemy
     - Jupyter notebook
   
+ ```diff
+ - Inside of this repo:
+ ```
+       - Readme.md
+       - excel file: Two_Pandas_ETL_mapping_document: the ETL mapping documentation
+       - outputs folder: the target tables gained from resources
+       - resources folder: raw resources from Kaggle.com
+       - Apple_store.ipynb: codes to convert Apple raw csv into SQL database
+       - googleplaystore.ipynb: codes to convert Google raw csv into SQL databse
+ 
 ```diff
 - Team members:
 ```
