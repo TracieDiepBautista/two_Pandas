@@ -33,6 +33,15 @@
     - SQL Alchemy
     - Jupyter notebook
   
+ ```diff
+ - Inside of this repo:
+ ```
+       - Readme.md
+       - outputs folder: the target tables gained from resources
+       - resources folder: raw resources from Kaggle.com
+       - Apple_store.ipynb: codes to convert Apple raw csv into SQL database
+       - googleplaystore.ipynb: codes to convert Google raw csv into SQL databse
+ 
 ```diff
 - Team members:
 ```
